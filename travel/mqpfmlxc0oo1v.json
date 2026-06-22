@@ -20,6 +20,12 @@
           "content": "공항버스",
           "place": "",
           "mapUrl": ""
+        },
+        {
+          "time": "08:31",
+          "content": "",
+          "place": "",
+          "mapUrl": ""
         }
       ]
     }
