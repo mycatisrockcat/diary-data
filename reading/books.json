@@ -10,6 +10,14 @@
     "start": "",
     "end": "",
     "medium": "종이책",
-    "toc": []
+    "toc": [
+      {
+        "id": "mqqybim6nhz1c",
+        "name": "1",
+        "level": "part",
+        "parentId": null,
+        "text": ""
+      }
+    ]
   }
 ]
