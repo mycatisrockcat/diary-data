@@ -14,7 +14,14 @@
   "schedule": [
     {
       "date": "2026-06-29",
-      "items": []
+      "items": [
+        {
+          "time": "",
+          "content": "",
+          "place": "",
+          "mapUrl": ""
+        }
+      ]
     },
     {
       "date": "2026-06-30",
