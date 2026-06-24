@@ -18,6 +18,12 @@
         {
           "time": "07:30",
           "content": "버스 탑승",
+          "place": "경기광주고속버스터미널",
+          "mapUrl": ""
+        },
+        {
+          "time": "",
+          "content": "",
           "place": "",
           "mapUrl": ""
         }
