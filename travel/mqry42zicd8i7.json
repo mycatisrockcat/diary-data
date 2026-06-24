@@ -1,0 +1,26 @@
+{
+  "id": "mqry42zicd8i7",
+  "overview": {
+    "name": "대전 1박 2일",
+    "destination": "대전",
+    "start": "2026-06-29",
+    "end": "2026-06-30",
+    "companions": "보경",
+    "budget": "",
+    "status": "예정",
+    "cover": "",
+    "memo": ""
+  },
+  "schedule": [],
+  "expenses": [],
+  "checklist": {
+    "packing": [],
+    "booking": [],
+    "before": []
+  },
+  "records": {},
+  "exchangeRate": {
+    "currency": "",
+    "rate": ""
+  }
+}
